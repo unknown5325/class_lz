@@ -52,5 +52,5 @@ class Octagon:  #Задаем класс
         plt.show()  #Выводим график
 
     def __del__(self):  #Деструктор
-        print("delete")
+        print("deleted")
 
